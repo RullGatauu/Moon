@@ -20,7 +20,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                 year: 'numeric'
             })
 conn.reply(m.chat, '*Succes*', m)
-conn.reply('17608914335' + '@s.whatsapp.net', `*🗓️ Database:* ${date}`, null)
+conn.reply('6285746030186' + '@s.whatsapp.net', `*🗓️ Database:* ${date}`, null)
           conn.sendFile('6285746030186'+ '@s.whatsapp.net', fs.readFileSync('./database.json'), 'database.json', '', 0, 0, { mimetype: 'application/json', quoted: fdoc})
  }
  
