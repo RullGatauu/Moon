@@ -9,6 +9,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 }
 handler.help = ['loli']
 handler.tags = ['weebs']
+handler.private = true
 handler.command = /^(loli)$/i
 
 export default handler
