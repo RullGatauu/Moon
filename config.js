@@ -4,10 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+1 760-891-4335'],
-  ['+62 852-7282-1627'],
-  ['17608914335', 'Papah-Chan', true],
-  ['6285272821627', 'Moca', true]
+  ['+62 857 4603 0186'],
+  ['+62 857 4603 0186'],
+  ['6285746030186', 'Rull', true],
+  ['6285746030186', 'Senpai', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -35,20 +35,20 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 𝕹𝖆𝖌𝖆𝖙𝖔𝖗𝖔𝕭𝖔𝖙 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝓞𝔀𝓷𝓮𝓻 - 𝓢𝓮𝓷𝓹𝓪𝓲˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝓝𝓪𝓰𝓪𝓽𝓸𝓻𝓸𝓑𝓸𝓽'
 
-global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
+global.botdate = `⫹⫺ 𝐷𝑎𝑡𝑒 :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
+global.bottime = `𝑻 𝑰 𝑴 𝑬 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 
-global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+global.titlebot = `⫹⫺ 𝑇𝐼𝑀𝐸 𝑆𝐸𝑅𝑉𝐸𝑅 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ꜱᴀᴅ BOT あ⁩ 」'
+global.author = '                「 𝕹𝖆𝖌𝖆𝖙𝖔𝖗𝖔 𝕭𝖔𝖙⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
