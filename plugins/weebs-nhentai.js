@@ -14,6 +14,7 @@ let handler = async (m, { conn, args }) => {
 }
 handler.help = handler.alias = ['nhentai']
 handler.tags = ['weebs']
+handler.private = true
 handler.command = /^(nhentai)$/i
 
 export default handler
