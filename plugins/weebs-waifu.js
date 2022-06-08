@@ -8,6 +8,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 }
 handler.help = handler.alias = ['waifu','neko']
 handler.tags = ['weebs']
+handler.private = true
 handler.command = /^(waifu|neko)$/i
 
 export default handler
