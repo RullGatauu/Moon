@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   },
   message: {
   documentMessage: {
-  title: '©Sad-Bot ', 
+  title: '©Nagatoro ', 
   jpegThumbnail: fs.readFileSync('./thumbnail.jpg'),
                             }
                           }
@@ -21,7 +21,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             })
 conn.reply(m.chat, '*Succes*', m)
 conn.reply('17608914335' + '@s.whatsapp.net', `*🗓️ Database:* ${date}`, null)
-          conn.sendFile('17608914335'+ '@s.whatsapp.net', fs.readFileSync('./database.json'), 'database.json', '', 0, 0, { mimetype: 'application/json', quoted: fdoc})
+          conn.sendFile('6285746030186'+ '@s.whatsapp.net', fs.readFileSync('./database.json'), 'database.json', '', 0, 0, { mimetype: 'application/json', quoted: fdoc})
  }
  
  handler.help = ['backup']
