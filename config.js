@@ -51,14 +51,10 @@ global.titlebot = `⫹⫺ 𝑇𝐼𝑀𝐸 𝑆𝐸𝑅𝑉𝐸𝑅 : ${moment.t
 global.author = '                「 𝕹𝖆𝖌𝖆𝖙𝖔𝖗𝖔 𝕭𝖔𝖙⁩ 」'
 
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/439f66274b33b073c9497.jpg', 'https://telegra.ph/file/c020edd5cba93acb41b08.jpg'
 ]
 
-global.sgc = 'https://chat.whatsapp.com/HFdZ0islM3x5Y7eQpUQVU8'
+global.sgc = 'https://chat.whatsapp.com/Bv0B8hVfoBG6bDGSkoaBz1'
 global.sig = 'https://instagram.com/bot_whangsaf'
 
 //Ini cuma simpenan owner kanna kok :v
@@ -73,10 +69,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281268416245'
-global.nomorown = '17608914335'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6285746030186'
+global.nomorown = '6285746030186'
+global.namebot = 'NagatoroBot'
+global.nameown = 'Rull'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
